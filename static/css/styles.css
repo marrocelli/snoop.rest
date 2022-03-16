@@ -1,0 +1,100 @@
+
+body {
+    margin: 20px 10px 0;
+    background-color: black;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 500;
+}
+
+h1 {
+    color: white;
+    font-weight: 600;
+    margin: 0;
+}
+
+hr {
+    border: none;
+    background-color: lightgray;
+    height: 1.5px;
+}
+
+.container-fluid {
+    max-width: 1000px;
+}
+
+.about-div {
+    font-size: 1.5rem;
+    margin: 10px 0 30px;
+}
+
+.functions-container {
+    position: relative;
+    height: 15px;
+}
+
+.get-link {
+    font-size: 2rem;
+    position: absolute;
+    left: 0px;
+}
+
+#refresh-btn {
+    color: white;
+    background-color: black;
+    border: none;
+    font-size: 3rem;
+    position: absolute;
+    top: -12px;
+    right: 85px;
+}
+
+.tweet-container {
+    position: absolute;
+    right: -10px;
+}
+
+.quote-div .card-body {
+    color: black;
+    background-color: white;
+    border-radius: 8px;
+    margin-top: 30px;
+}
+
+.btn {
+    background-color: white;
+    color: black;
+}
+
+.btn:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.all-quotes {
+    color: black;
+    background-color: white;
+    border-radius: 8px;
+}
+
+.accordion-body {
+    height: 400px;
+    overflow-y: auto;
+    padding: 20px;
+}
+
+.twitter-link {
+    font-size: 2rem;
+    margin: 50px 0 0;
+    text-align: center;
+}
+
+.github-link {
+    text-align: center;
+    margin-bottom: 75px;
+}
+
+
+
+
+
+/* THIS IS A COMMENT */
